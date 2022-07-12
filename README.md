@@ -1,3 +1,4 @@
+![logo](./images/logo.png)
 ## INTRODUCTION
 If you have no previous IT background, AWS Certified Cloud Practitioner course is the first exam to take to start your Cloud journey. The AWS Certified Cloud Practitioner (CCP) is the easiest Amazon Web Services certification. It’s a cloud beginner-friendly certification that covers the basics of AWS and the cloud and requires no technical experience as a prerequisite.
 
