@@ -22,6 +22,6 @@ Some tips about doing certifications the right way:
 Follow this [link](https://aws.amazon.com/certification/) to schedule your exam
 
 ## AWS CERTIFICATIONS
-Where are you on your cloud learning journey? Get Started NOW via [AWS Skills Builder(https://lnkd.in/eKDh3FAM)? Find the NEW AWS Certification badges below.
+Where are you on your cloud learning journey? Get Started NOW via ![AWS Skills Builder(https://lnkd.in/eKDh3FAM)? Find the NEW AWS Certification badges below.
 ![AWS Certifications](./images/Available%20aws%20certifications.png)
 
